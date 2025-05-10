@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **.Net&Flutter**
+- 💬 Ask me about **.Net & Flutter**
 
 - 📫 How to reach me **kosebaris465@gmail.com**
 
