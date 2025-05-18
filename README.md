@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosebaris1&label=Profile%20views&color=0e75b6&style=flat" alt="kosebaris1" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **ASP.NET Core & .NET Framework**
 
 - 💬 Ask me about **.Net & Flutter**
 
