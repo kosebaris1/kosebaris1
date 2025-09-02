@@ -30,7 +30,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kosebaris1&show_icons=true&theme=chartreuse-dark&bg_color=1e1b16&title_color=d2a679&text_color=c9c0bb&icon_color=8c7853&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kosebaris1&theme=dark&background=1e1b16&ring=d2a679&fire=8c7853&currStreakLabel=c9c0bb&sideNums=d2a679&currStreakNum=8c7853&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=kosebaris1&theme=dark&background=1e1b16&ring=d2a679&fire=8c7853&currStreakLabel=c9c0bb&sideNums=d2a679&currStreakNum=8c7853&hide_border=true" />
 
 </div>
 
