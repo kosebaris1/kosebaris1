@@ -22,7 +22,7 @@
 
 ## ⚙️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,python,java,dart,flutter,js,html,css,bootstrap,docker,mysql,postgres,sqlite,git,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,python,java,dart,flutter,js,html,css,bootstrap,docker,mysql,postgres,sqlite,git,linux,powershell,postgreSql" />
 </p>
 
 
