@@ -17,7 +17,6 @@
 
 ## 🪶 About Me
 - 🌱 I’m currently learning **ASP.NET Core & .NET Framework**
-- 💬 Ask me about **.NET & Flutter**
 - 📫 How to reach me **kosebaris465@gmail.com**
 
 
