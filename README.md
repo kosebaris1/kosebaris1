@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1b16&height=120&section=header&text=.NET%20Backend%20Developer&fontColor=d2a679&fontSize=22&animation=fadeIn" />
 </p>
 
-
 ---
 
 <p align="center">
