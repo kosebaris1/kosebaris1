@@ -18,12 +18,6 @@
 - 📫 How to reach me **kosebaris465@gmail.com**
 
 
-## ⚙️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,python,java,dart,flutter,js,html,css,bootstrap,docker,mysql,postgres,mongodb,sqlite,git,linux,powershell,postgreSql" />
-</p>
-
-
 ## 📊 GitHub Analytics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kosebaris1&show_icons=true&theme=chartreuse-dark&bg_color=1e1b16&title_color=d2a679&text_color=c9c0bb&icon_color=8c7853&hide_border=true" height="165"/>
