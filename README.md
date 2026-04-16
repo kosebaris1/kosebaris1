@@ -6,7 +6,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kosebaris1&label=Profile%20Views&color=8c7853&style=flat" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-k%C3%B6se-030502284/"><img src="https://img.shields.io/badge/LinkedIn-8c7853?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kosebaris465@gmail.com"><img src="https://img.shields.io/badge/Email-5c4033?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
