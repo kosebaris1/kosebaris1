@@ -10,13 +10,6 @@
   <a href="mailto:kosebaris465@gmail.com"><img src="https://img.shields.io/badge/Email-5c4033?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-
-## 🪶 About Me
-- 🌱 I’m currently learning **ASP.NET Core & .NET Framework**
-- 📫 How to reach me **kosebaris465@gmail.com**
-
-
 ## 📊 GitHub Analytics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kosebaris1&show_icons=true&theme=chartreuse-dark&bg_color=1e1b16&title_color=d2a679&text_color=c9c0bb&icon_color=8c7853&hide_border=true" height="165"/>
