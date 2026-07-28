@@ -22,5 +22,4 @@
 <div align="center" style="background-color:#1e1b16; padding:15px; border-radius:10px;">
   
  <span style="color:#d2a679;">"Simplicity is the soul of efficiency."</span>
-
 </div>
