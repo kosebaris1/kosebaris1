@@ -38,7 +38,3 @@ operational tooling that keeps all of it diagnosable in production.
   <img height="160" src="https://streak-stats.demolab.com?user=kosebaris1&hide_border=true&background=00000000&ring=8C7853&fire=8C7853&stroke=8C7853&currStreakNum=8C7853&currStreakLabel=8C7853&sideNums=7D7267&sideLabels=7D7267&dates=7D7267" alt="Contribution streak" />
 </div>
 
-
-<p align="center">
-  <sub><i>Simplicity is the soul of efficiency.</i></sub>
-</p>
